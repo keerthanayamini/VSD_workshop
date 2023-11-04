@@ -13,7 +13,7 @@ Task : To pass csv file from UNIX shell to tcl script
 
 3.CSV file which was provided is not available
 
-CODE:
+UNIX script:
 ![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/44640590-cbe4-463f-9506-9b1ade3f63b8)
 
 ![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/beac6c6e-f10c-4597-a09f-1e0151e0d382)
@@ -26,6 +26,26 @@ scenario2:
 
 scenario3:
 ![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/b4106b7d-0958-4ecc-90ee-523344330848)
+DAY2:
+
+1.Create variables for the inputs
+(tclsh yamini1.tcl openMSP430_design_details.csv) to csv file to tcl scripts
+
+Code for assigning directory or file paths to variables:
+![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/989f8caa-9c65-4905-8f2c-f840bfca8ec4)
+OUTPUT
+![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/b11537ee-3bc8-44ea-95db-a94ee10041d1)
+Code to check if directories and files exits:
+![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/453afcc0-3adc-4350-aee7-5b8a2bd767c7)
+OUTPUT
+![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/02455f1f-747b-489f-a624-c1733ba9b813)
+Code to check number of rows & number of columns and row number and column no. of the given element in csv file:
+![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/c21707a4-6109-4166-86ba-98c3418705eb)
+OUTPUT
+![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/28ada7ac-0566-48b9-a5a7-cbfdd0763f27)
+
+
+
 
 
 
