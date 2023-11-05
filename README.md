@@ -43,6 +43,14 @@ Code to check number of rows & number of columns and row number and column no. o
 ![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/c21707a4-6109-4166-86ba-98c3418705eb)
 OUTPUT
 ![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/28ada7ac-0566-48b9-a5a7-cbfdd0763f27)
+Code to convert excel sheet of clocks section to sdc format:
+![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/45e15067-bf98-4471-97b7-6565c086c8e7)
+OUTPUT
+![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/a83b4f1a-4452-4d34-b5fc-980d723e49c0)
+SDC file:
+![image](https://github.com/keerthanayamini/VSD_workshop/assets/149821079/1279d584-5055-4d4b-bc41-31e8e981762e)
+
+
 
 
 
